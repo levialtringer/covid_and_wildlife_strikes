@@ -8,8 +8,8 @@ The files contained in this repository are:
 
   1. `code.R`
   2. data
-     2.1. `sample_strikes_and_air_traffic__2014_to_2020.csv`
-     2.2. `state_level_air_traffic__2019_and_2020.csv`
+     1. `sample_strikes_and_air_traffic__2014_to_2020.csv`
+     2. `state_level_air_traffic__2019_and_2020.csv`
 
 To perform the analysis and reproduce the objects presented in the article, work through the `code.R` script.
 
