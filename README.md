@@ -10,6 +10,7 @@ The files contained in this repository are:
   2. data
      1. `sample_strikes_and_air_traffic__2014_to_2020.csv`
      2. `state_level_air_traffic__2019_and_2020.csv`
+  3. `README.md`
 
 To perform the analysis and reproduce the objects presented in the article, work through the `code.R` script.
 
