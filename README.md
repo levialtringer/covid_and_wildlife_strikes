@@ -1,10 +1,10 @@
 # The Impact of the COVID-19 Pandemic on Wildlife-Aircraft Collisions at US Airports
 
-This repository contains the data and code for replicating the objects oresented in "The Impact of the COVID-19 Pandemic on Wildlife-Aircraft Collisions at US Airports". All analyses were perfomed in R (version 4.0.4). 
+This repository contains the data and code for replicating the objects oresented in "The Impact of the COVID-19 Pandemic on Wildlife-Aircraft Collisions at US Airports".
 
-[CITATION]
+Altringer, L., McKee, S.C., Kougher, J.D. et al. The impact of the COVID-19 pandemic on wildlife–aircraft collisions at US airports. Sci Rep 13, 11602 (2023). <https://doi.org/10.1038/s41598-023-38451-9>
 
-The files contained in this repository are:
+All analyses were perfomed in R (version 4.0.4) and the files contained in this repository are:
 
   1. `code.R`
   2. data
