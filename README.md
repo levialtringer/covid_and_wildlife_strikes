@@ -1,6 +1,6 @@
 # The Impact of the COVID-19 Pandemic on Wildlife-Aircraft Collisions at US Airports
 
-This repository contains the data and code for replicating the objects oresented in "The Impact of the COVID-19 Pandemic on Wildlife-Aircraft Collisions at US Airports".
+This repository contains the data and code for replicating the objects presented in "The Impact of the COVID-19 Pandemic on Wildlife-Aircraft Collisions at US Airports".
 
 > Altringer, L., McKee, S.C., Kougher, J.D. et al. The impact of the COVID-19 pandemic on wildlife–aircraft collisions at US airports. *Sci Rep* **13**, 11602 (2023). <https://doi.org/10.1038/s41598-023-38451-9>
 
